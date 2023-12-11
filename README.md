@@ -13,7 +13,7 @@
 ## Installation
 
 ```console
-pip install openalerts
+Under Process
 ```
 
 ## License
