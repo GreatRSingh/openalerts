@@ -5,15 +5,18 @@
 
 -----
 
-**Table of Contents**
+## Table of Contents
 
 - [Installation](#installation)
 - [License](#license)
 
 ## Installation
 
+- In the top level Project folder.
+
 ```console
-Under Process
+python -m build
+pip install dist/openalerts-0.0.1-py3-none-any.whl
 ```
 
 ## License
