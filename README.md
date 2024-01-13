@@ -15,6 +15,7 @@
 - In the top level Project folder.
 
 ```console
+pip install -r requirements.txt
 python -m build
 pip install dist/openalerts-0.0.1-py3-none-any.whl
 ```
